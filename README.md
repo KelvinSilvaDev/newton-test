@@ -10,6 +10,14 @@
 
 > Projeto desenvolvido para aplicações em processo seletivo para vaga de emprego.
 
+### Tecnologias Utilizadas
+
+- ReactJs
+- NextJs
+- Typescript
+- React Hook Forms
+- Tailwind CSS
+
 ### Ajustes e melhorias
 
 Melhoria sugeridas para o projeto em questão:
